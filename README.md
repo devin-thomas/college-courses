@@ -1,10 +1,8 @@
-# College Course Requirements
+# College Courses
 
-Standalone Material 3-style degree requirement and course status page.
+Distilled schedule containing only the eight selected Fall 2026 and Spring 2027 courses, with current registration status.
 
 ## GitHub Pages
-
-Once Pages is enabled with **GitHub Actions** as its source, the site will be available at:
 
 https://devin-thomas.github.io/college-courses/
 
