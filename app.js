@@ -12,6 +12,7 @@
       if (heading.querySelector(".material-symbol")) return;
       const icon = document.createElement("span");
       icon.className = "material-symbol";
+      icon.style.color = "#ff8fab";
       icon.setAttribute("aria-hidden", "true");
       icon.textContent = "calendar_month";
       heading.prepend(icon);
